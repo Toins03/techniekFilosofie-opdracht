@@ -14,10 +14,3 @@ body {
 }
 
 
-/* voorbeeld media query voor mobiel */
-@media screen and (max-width: 550px) {
-    body {
-        background-color: #375e80;
-    }
-}
-
