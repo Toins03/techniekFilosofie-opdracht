@@ -1,14 +1,18 @@
 
 .title  {
     color:          	black;
-    font-size:          200%; 
-    }
+    font-size:          70px; 
+}
 
+.intel  {
+	color:				blue;
+	font-size:			24px;
+}
 
 
 body {
     margin:             0;
-    padding:            0;
+    padding:            10px;
     background-color:   rgb(110, 110, 110);
     color:              black;
 }
