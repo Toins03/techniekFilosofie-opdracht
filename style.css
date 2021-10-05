@@ -5,8 +5,21 @@
 	font-family:			'Trebuchet MS', sans-serif;
 }
 
+.title1	{
+	color:				white;
+	font-size:			40px;
+	font-family:			'Trebuchet MS', sans-serif;
+}
+
+.title2	{
+	color:				white;
+	font-size:			35px;
+	font-family:			'Trebuchet MS', sans-serif;
+}
+
 .tekst	{
 	color:				white;
+	font-size:			30px;
 	font-family:			'Trebuchet MS', sans-serif;
 }
 
