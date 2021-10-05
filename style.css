@@ -6,15 +6,15 @@
 }
 
 .intel	{
-	color:				blue;
-	font-size:			12px;
+	color:				white;
+	font-size:			24px;
 	font-family:			'Trebuchet MS', sans-serif;
 }
 
 
 body	{
 	margin:				0;
-	padding:			10px;
+	padding:			100px;
 	background-color:		rgb(110, 110, 110);
 }
 
